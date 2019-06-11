@@ -22,6 +22,7 @@ module.exports = {
   rules: {
     "quotes": 0,
     "react/jsx-filename-extension": 0,
-    "comma-dangle": 0
+    "comma-dangle": 0,
+    "object-curly-newline": 0
   },
 };
