@@ -20,5 +20,8 @@ module.exports = {
     'react',
   ],
   rules: {
+    "quotes": 0,
+    "react/jsx-filename-extension": 0,
+    "comma-dangle": 0
   },
 };
